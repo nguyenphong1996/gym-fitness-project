@@ -12,10 +12,10 @@ To start the Metro dev server, run the following command from the root of your R
 
 ```sh
 # Using npm
-npm start
+npm dev
 
 # OR using Yarn
-yarn start
+yarn dev
 ```
 
 ## Step 2: Build and run your app
